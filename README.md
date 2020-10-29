@@ -1,2 +1,5 @@
-# COMP229-MIDTERM-JAGJIT
-this is my final code for midterm exam 
+# COMP229-F2019-MidTerm Test
+
+## Welcome to the MidTerm Project - the Favourite Book List App
+
+please use **`npm install`** to install project dependencies
